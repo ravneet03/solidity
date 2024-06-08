@@ -22,12 +22,12 @@ This project is a Ethereum baesd smart contract coded in soldity for any Token o
 * Go to solidity compiler in the left side panel and compile the program
 * Go to Deploy & run transactions in the left side panel and Deploy the program
 * Now in "Deployed Section" :
-   * Use the `mint` function to create new tokens:
+   * Use the function 'mint' to create new tokens:
      * Enter an address and value.
-     * Click on the "transact" button.
-   * Use the `burn` function to destroy tokens:
-     * Enter an address and value.
-     * Click on the "transact" button.
+     * Click on the 'transact' button.
+   * Use the function 'burn' to burn/destroy tokens:
+     * Enter an address and avalue.
+     * Click on the 'transact' button.
 
 ## Help
 For any issues, you can refer to the Remix documentation or common Ethereum development resources.
